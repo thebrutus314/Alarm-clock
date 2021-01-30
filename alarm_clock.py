@@ -15,7 +15,7 @@ except ImportError:
     # Tkinter for Python 3.xx
     import tkinter as tk
 
-APP_TITLE = "Alarm clock in Python"
+APP_TITLE = "Alarm clock in Python by thebrutus314"
 APP_XPOS = 100
 APP_YPOS = 100
 APP_WIDTH = 300
