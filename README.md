@@ -13,6 +13,6 @@
 6. cd Alarm-clock/
 7. python3 alarm_clock.py
 
-## If you want to have an update with beeping, just write me a message and I will code Alarm clock 2.0
+#### If you want to have an update with beeping, just write me a message and I will code Alarm clock 2.0
 
 ### Coder: @thebrutus314
